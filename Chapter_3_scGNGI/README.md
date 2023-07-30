@@ -27,7 +27,7 @@ figures: all plots for scGNGI.
 * scipy
 
 
-## Quick example to use SRAFL
+## Quick example to use scGNGI
 ```
 * train and test the model:
 
